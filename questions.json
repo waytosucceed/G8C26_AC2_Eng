@@ -1,0 +1,212 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Assertive sentences are the same as Affirmative",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Interrogative sentences:",
+        "options": [
+            "Express queries",
+            "Clarify doubts",
+            "Enquire about facts",
+            "All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "You couldn’t play soccer, and Sophia couldn’t do gymnastics. The above sentence is:",
+        "options": [
+            "Declarative affirmative",
+            "Assertive Negative",
+            "Optative",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "A sentence may consist of one or more words.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Choose the correct option. Exclamatory sentences might or might not include an exclamatory sign. Exclamatory sentences might or might not include an interjection.",
+        "options": [
+            "I is correct, II is wrong",
+            "I is incorrect, II is right",
+            "Both A and B are not valid",
+            "Both A and B are correct"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Do not go outside Shirley. The above sentence is:",
+        "options": [
+            "A negative sentence",
+            "An affirmative sentence",
+            "An Imperative sentence.",
+            "Both A and C"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "‘Certainly’,  ‘Sorry’, ‘Pardon’ can be used as word-sentences.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "A promise is:",
+        "options": [
+            "A declarative sentence",
+            "An optative sentence",
+            "Both A and B",
+            "An imperative sentence"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Imperative sentences include:",
+        "options": [
+            "Doubts",
+            "Suggestions",
+            "Commands",
+            "Both B and C"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "“Good, we’re going to eat good food every night!” is:",
+        "options": [
+            "A wish",
+            "A positive statement",
+            "An exclamatory sentence",
+            "Both B and C"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "I slept. The above sentence is a declarative sentence.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which of these sentences are in the imperative form?",
+        "options": [
+            "Have fun, won’t you?",
+            "Did you have fun?",
+            "It will definitely be fun!",
+            "None of the above"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The regular form of a declarative sentence is:",
+        "options": [
+            "To assert an opinion",
+            "Subject-verb",
+            "A full-stop or period",
+            "Subject-verb"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "The use of not in a question frequently implies that an affirmative answer is expected.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which one is an optative sentence:",
+        "options": [
+            "Long live the king!",
+            "May god bless you.",
+            "Happy Birthday Sara!",
+            "All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Read the extract from the story you have just read and answer the following question: “Does that make sense so far?”",
+        "options": [
+            "Doubt",
+            "Query",
+            "Rhetorical question",
+            "Is a question that is asked to get a confirmation"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Which sentence type often begins with a subject?",
+        "options": [
+            "Optative",
+            "Imperative",
+            "Exclamative",
+            "Declarative"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which is a declarative sentence?",
+        "options": [
+            "Ouch!",
+            "That hurts!",
+            "Stop hurting me!",
+            "Both B and C"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "“Stand in a line and remain quiet!” The above sentence is:",
+        "options": [
+            "Exclamative",
+            "Imperative",
+            "Optative",
+            "Both A and B"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "The role of an assertive sentence is to …………someone about something.",
+        "options": [
+            "Surprise",
+            "Order",
+            "Tell",
+            "Ask"
+        ],
+        "correct": 2
+    }
+]
